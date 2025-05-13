@@ -17,7 +17,7 @@
 
 - 📫 Bana şurdan erişin **@azra.ciftc (instagram)**
 
-- ⚡ Gizli Bir Bilgi **Şebnem Ferah Fanıyım**
+- ⚡ Gizli Bir Bilgi **Şebnem Ferah Fanı DEĞİLİM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
