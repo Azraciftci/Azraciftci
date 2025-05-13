@@ -9,7 +9,7 @@
 
 - 👯 İleride **Yeni Diller öğrenip kendimi geliştirmek istiyorum**
 
-- 🤝 Bana Bunlar Üzerinde Yardım edebilirseniz **Çizgi İzleyen Robot, Labirent, Mini SUmo Robotu**
+- 🤝 Bana Bunlar Üzerinde Yardım edebilirseniz **Çizgi İzleyen Robot, Labirent, Mini Sumo Robotu**
 
 - 👨‍💻 Tüm projelerim [kendi hesabımda yer alıyor](kendi hesabımda yer alıyor)
 
