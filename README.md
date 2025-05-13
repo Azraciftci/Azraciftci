@@ -1,9 +1,9 @@
 <h1 align="center">Merhaba Ben Azra</h1>
-<h3 align="center">Yazılım/Elektrik-Elektronik Alanında gelişmeye çalışan bir öğrenciyim.</h3>
+<h3 align="center">Bilişim alanında gelişmeye çalışan bir öğrenciyim.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azraciftci&label=Profile%20views&color=0e75b6&style=flat" alt="azraciftci" /> </p>
 
-- 🔭 Şuanda **Herhangi bir Robot Üzerinde Çalışıyorum**
+- 🔭 Şuanda **Herhangi bir Robot Üzerinde Çalışmıyorum**
 
 - 🌱 Güncel Olarak Bunları Öğreniyorum **C++ C# Arduino IDE**
 
